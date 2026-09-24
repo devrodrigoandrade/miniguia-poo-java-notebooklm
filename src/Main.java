@@ -1,4 +1,3 @@
-```java
 class Pessoa {
     private String nome;
 
@@ -33,4 +32,3 @@ public class Main {
         aluno.apresentar();
     }
 }
-```
