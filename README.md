@@ -378,7 +378,41 @@ Apresente os conceitos principais, exemplos práticos, relações entre os conce
 ```
 
 ---
+## Como executar
 
+O projeto possui um exemplo prático em Java localizado em `src/Main.java`.
+
+### Requisitos
+
+* Java JDK instalado
+* Terminal ou prompt de comando
+
+### Compilar
+
+Entre na pasta `src` e execute:
+
+```bash
+javac Main.java
+```
+
+### Executar
+
+Depois da compilação:
+
+```bash
+java Main
+```
+
+### Saída esperada
+
+```text
+Olá, meu nome é Rodrigo
+Olá, sou um aluno.
+```
+
+O exemplo demonstra, de forma prática, conceitos de Programação Orientada a Objetos, como classe, atributo, encapsulamento, construtor, método, herança, sobrescrita e polimorfismo.
+
+---
 # 🎓 Conclusão
 
 O projeto demonstrou como o uso de fontes selecionadas, prompts estruturados e aprendizagem ativa pode apoiar o estudo de Programação Orientada a Objetos em Java.
